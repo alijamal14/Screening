@@ -1,3 +1,5 @@
+//To Run this use following command
+//> node app.js
 var KnightAllPossibleMove = {
     dx : [ -2, -1, 1, 2, -2, -1, 1, 2 ],
     dy : [ -1, -2, -2, -1, 1, 2, 2, 1 ]
